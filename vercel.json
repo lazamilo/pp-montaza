@@ -1,0 +1,7 @@
+{
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "node gen.mjs",
+  "outputDirectory": "site",
+  "cleanUrls": true
+}
